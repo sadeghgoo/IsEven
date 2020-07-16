@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IsEven_Example' do
+  pod 'IsEven', :path => '../'
+
+  target 'IsEven_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
