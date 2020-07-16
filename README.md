@@ -1,6 +1,5 @@
 # IsEven
 
-[![CI Status](https://img.shields.io/travis/sadeghitunes2@gmail.com/IsEven.svg?style=flat)](https://travis-ci.org/sadeghitunes2@gmail.com/IsEven)
 [![Version](https://img.shields.io/cocoapods/v/IsEven.svg?style=flat)](https://cocoapods.org/pods/IsEven)
 [![License](https://img.shields.io/cocoapods/l/IsEven.svg?style=flat)](https://cocoapods.org/pods/IsEven)
 [![Platform](https://img.shields.io/cocoapods/p/IsEven.svg?style=flat)](https://cocoapods.org/pods/IsEven)
