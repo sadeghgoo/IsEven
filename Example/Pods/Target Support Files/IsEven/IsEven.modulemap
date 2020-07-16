@@ -1,0 +1,6 @@
+framework module IsEven {
+  umbrella header "IsEven-umbrella.h"
+
+  export *
+  module * { export * }
+}

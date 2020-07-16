@@ -1,0 +1,16 @@
+PODS:
+  - IsEven (0.1.0)
+
+DEPENDENCIES:
+  - IsEven (from `../`)
+
+EXTERNAL SOURCES:
+  IsEven:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IsEven: 9e490f8eba6bcbe9a74d50a6f67f20ffe78d4e7c
+
+PODFILE CHECKSUM: 39227a539bee33e1d4561dc081523652ce6369bd
+
+COCOAPODS: 1.9.3
