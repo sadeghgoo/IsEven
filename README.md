@@ -15,9 +15,21 @@ pod 'IsEven'
 # Documention
 IsEven is a library that checks even numbers in swift.
 
-## isEven
+## `isEven`
+Return number of even in an array.
 ```swift
 func isEven() -> Bool
+```
+## `numberOfEven`
+Return number of even in array.
+```swift
+func numberOfEven() -> Int?
+```
+
+## `isAllElementEven`
+Check is all elements in an array are even or not.
+```swift
+func isAllElementEven() -> Bool?
 ```
 
 ## Author
