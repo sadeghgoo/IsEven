@@ -12,6 +12,13 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'IsEven'
 ```
+# Documention
+IsEven is a library that checks even numbers in swift.
+
+## isEven
+```swift
+func isEven() -> Bool
+```
 
 ## Author
 
